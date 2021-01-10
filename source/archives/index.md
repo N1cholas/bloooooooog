@@ -1,6 +1,5 @@
 ---
 layout: "archives"
 title: "Archives"
-description: "Hey, this is Archives."
-header-img: "img/tag-bg.jpg"
+description: "Less is more."
 ---
