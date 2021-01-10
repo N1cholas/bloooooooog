@@ -6,4 +6,6 @@
 
 public
 
-.deploy.git
+.deploy_git
+
+db.json
