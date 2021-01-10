@@ -5,3 +5,5 @@
 .DS_Store
 
 public
+
+.deploy.git
