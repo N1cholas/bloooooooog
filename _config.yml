@@ -134,5 +134,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/N1cholas/n1cholas.github.io
+  repo: git@github.com:N1cholas/n1cholas.github.io
   branch: master
